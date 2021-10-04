@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iTunesAPI</string>
+    <string name="Wrapptertype">WrappterType:</string>
+    <string name="kind">Kind:</string>
+    <string name="trackid">TrackID:</string>
+    <string name="track_name">Track Name :</string>
+    <string name="artist_name">Artist Name:</string>
+    <string name="has_itunes_extras">Has Itunes Extras :</string>
+    <string name="country">Country :</string>
+    <string name="currency">Currency :</string>
+    <string name="track_url">TrackView Url :</string>
+    <string name="trqack_preview_url">Trqack Preview Url :</string>
+</resources>
